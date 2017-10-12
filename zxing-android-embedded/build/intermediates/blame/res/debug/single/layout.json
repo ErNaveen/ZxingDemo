@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ZxingDemo\\zxing-android-embedded\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ZxingDemo\\zxing-android-embedded\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\ZxingDemo\\zxing-android-embedded\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_barcode_scanner.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\ZxingDemo\\zxing-android-embedded\\res\\layout\\zxing_barcode_scanner.xml"
+    }
+]
